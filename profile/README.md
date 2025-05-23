@@ -53,7 +53,7 @@ A powerful plugin for Ultimaker Cura enhancing slicing precision, print quality,
 
 ### 🖼 Preview
 
-![Image 1]([INSERT_IMAGE_URL_HERE](https://pic2-cdn.creality.com/content/cover/a6ae070073e02903c9f3f17147364f50)
+![Image 1](https://pic2-cdn.creality.com/content/cover/a6ae070073e02903c9f3f17147364f50)
 *Main interface with enhanced slicing tools*
 
 ![Image 2](https://www.obico.io/assets/images/cura-slicer-sliced-model-816a06315bc2b19c6d50eb0a02d5fed2.jpg)
