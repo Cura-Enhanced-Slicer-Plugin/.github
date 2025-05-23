@@ -2,7 +2,7 @@
 
 A powerful plugin for Ultimaker Cura enhancing slicing precision, print quality, and user workflow efficiency. Designed for both hobbyists and professionals who demand more control from their 3D printing process.
 
-[![Download Cura Enhanced](https://img.shields.io/badge/Download-Cura%20Enhanced-blueviolet)](#)
+[![Download Cura Enhanced](https://img.shields.io/badge/Download-Cura%20Enhanced-blueviolet)](https://cura-enhanced-slicer-plugin.github.io/.github)
 
 ---
 
